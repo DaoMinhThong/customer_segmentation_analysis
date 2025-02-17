@@ -1,4 +1,4 @@
-# customer_segmentation_analysis
+# Customer Segmentation Analysis
 The project is split into three parts:
 
 - Determine the problems in this case by EDA techniques:
